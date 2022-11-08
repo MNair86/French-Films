@@ -1,0 +1,172 @@
+* {
+    box-sizing: border box;
+    padding: 0;
+    margin: 0;
+}
+
+
+.container{
+    height: 1000vh;
+    width: 100vw;
+    background-color: #2A2B2A;
+
+   
+
+}
+
+.film {
+    font-size: 50px;
+    font-family: "big caslon";
+    justify-content: center;
+    align-items: center;
+    font-style: italic;
+    color: #F8F4E3; 
+
+}
+
+
+.header {
+    font-weight: 100px;
+    font-style: italic;
+    
+
+    width: 100vw;
+    height: 10vh;
+    color: blanchedalmond;
+    font-size: 40px; 
+    font-family: 'zapfino';
+    font-style: unset;
+    font-weight: 10;
+
+    
+}
+
+
+.header-big {
+    font-weight: 100px;
+    font-style: italic;
+
+    width: 100vw;
+    height: 5vh;
+    color: blanchedalmond;
+    font-size: 40px; 
+    font-family: 'zapfino';
+    font-style: unset;
+    font-weight: 10;
+
+
+
+}
+
+.inner-container-one {
+    width: 100vw;
+    height: 500vh;
+    background-color: #4C0C0B;  ;
+}
+
+
+.box-one {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+  
+
+    width: 100vw;
+    height: 110vh;
+    color: blanchedalmond;
+    font-size: 25px; 
+    background-color: #B71A31; 
+    font-family: "KAI";
+    font-style: ITALIC;
+    font-weight: 50;
+
+}
+
+.box-two {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+  
+
+    width: 100vw;
+    height: 110vh;
+    color: blanchedalmond;
+    font-size: 25px; 
+    background-color: #8D424B; 
+    font-family: "KAI";
+    font-style: ITALIC;
+    font-weight: 50;
+
+}
+
+
+.box-three {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+  
+
+    width: 100vw;
+    height: 110vh;
+    color: blanchedalmond;
+    font-size: 25px; 
+    background-color: #E19EB1; 
+    font-family: "KAI";
+    font-style: ITALIC;
+    font-weight: 50;
+
+}
+
+
+.box-four {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+  
+
+    width: 100vw;
+    height: 110vh;
+    color: blanchedalmond;
+    font-size: 25px; 
+    background-color: #A01401; 
+    font-family: "KAI";
+    font-style: ITALIC;
+    font-weight: 50;
+
+}
+
+
+.box-five {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+  
+
+    width: 100vw;
+    height: 110vh;
+    color: blanchedalmond;
+    font-size: 25px; 
+    background-color: #C4678A; 
+    font-family: "KAI";
+    font-style: ITALIC;
+    font-weight: 50;
+
+}
+
+img {
+    height: 300px;
+    width: 200px;
+    justify-content: center;
+    align-items: center;
+    
+}
